@@ -1,5 +1,5 @@
 <?php
-// Démarrer la session
+
 //session_start();
 // Connexion à la base de données
 include "config/database.php";
