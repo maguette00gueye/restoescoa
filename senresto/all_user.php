@@ -129,8 +129,7 @@ $stats = $stmt_stats->fetch(PDO::FETCH_ASSOC);
     <link rel="stylesheet" type="text/css" href="vendors/styles/datatable-custom.css">
 </head>
 <body>
-    
-
+    <!-- DataTables CSS -->
     <div class="header">
         <div class="header-left">
             <div class="menu-icon dw dw-menu"></div>
