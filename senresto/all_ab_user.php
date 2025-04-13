@@ -1,7 +1,7 @@
 <?php
 // Démarrer la session
 session_start();
-
+// Connexion à la base de données
 // Initialiser le panier si ce n'est pas encore fait
 if (!isset($_SESSION['cart'])) {
     $_SESSION['cart'] = []; // Initialiser le panier comme un tableau vide si non défini
