@@ -129,7 +129,7 @@ $stats = $stmt_stats->fetch(PDO::FETCH_ASSOC);
     <link rel="stylesheet" type="text/css" href="vendors/styles/datatable-custom.css">
 </head>
 <body>
-    <?php include "chargement.php"; ?>
+    
 
     <div class="header">
         <div class="header-left">
